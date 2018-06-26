@@ -3,7 +3,7 @@
 	"description": "Bloodbeard nzb indexer",
 	"version": "0.0.1",
 	"dependencies": {
-		"alchemymvc": "0.0.x",
+		"alchemymvc": "0.2.0",
 		"nntp": "0.3.0"
 	},
 	"engines": {
